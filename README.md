@@ -5,6 +5,12 @@ Installation
 
 just copy and paste this i thinkk 
 
-git clone https://github.com/MysticMystic/fastfetch-dotfiles/blob/main/config.jsonc ~/.config/fastfetch/config.jsonc && git clone https://github.com/MysticMystic/Fastfetch-dotfiles/blob/main/open-source-logo.txt
+mkdir -p ~/.config/fastfetch
+
+wget -O ~/.config/fastfetch/config.jsonc \
+https://raw.githubusercontent.com/MysticMystic/fastfetch-dotfiles/main/config.jsonc
+
+wget -O open-source-logo.txt \
+https://raw.githubusercontent.com/MysticMystic/Fastfetch-dotfiles/main/open-source-logo.txt
 
 is that doesnt work skill issue
