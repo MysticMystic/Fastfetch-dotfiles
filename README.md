@@ -1,4 +1,9 @@
 # Fastfetch-dotfiles
 my personal fastfetch dotfiles
 
-To use this dotfiles for your fastfetch you need to type in your terminal "nano ~/.config/fastfetch/config.jsonc", delete everything, paste the config file, and put the "open-source-logo.txt" file in your home directory.
+Installation
+
+just copy and paste this i thinkk 
+git clone https://github.com/MysticMystic/fastfetch-dotfiles/config.jsonc ~/.config/fastfetch/config.jsonc && cp fastfetch-dotfiles/open-source-logo.txt ~/.config/fastfetch/open-source-logo.txt
+
+is that doesnt work skill issue
